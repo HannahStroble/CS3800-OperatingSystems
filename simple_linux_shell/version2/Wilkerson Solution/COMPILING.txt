@@ -1,0 +1,5 @@
+To compile with debug symbols (from a directory containing the solution code):
+g++ -g -std=c++11 *.cpp -o shellEmulation
+
+To compile regularly:
+g++ -std=c++11 *.cpp -o shellEmulation
